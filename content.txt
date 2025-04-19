@@ -1,5 +1,4 @@
 jpg 1-35
-png 1-10
-webm 1-4
-mkv 1
-mp4 1
+png 1-15
+mkv 2
+mp4 5
